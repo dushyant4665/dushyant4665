@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/dushyant4665?style=social)
 
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+![GitHub stars](https://img.shields.io/github/stars/dushyant4665?style=social)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=dushyant4665)
+![Trophy](https://github-profile-trophy.vercel.app/?dushyant4665=dushyant4665)
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?dushyant4665=dushyant4665&show_icons=true&theme=radical)
 
 
 ### 💻 Technologies I Use
@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 - [Project 2](link): Description of the project.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
+[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dushyant4665/)](https://www.linkedin.com/in/dushyant4665/)
 
