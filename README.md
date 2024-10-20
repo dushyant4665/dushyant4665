@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋 I'm Dushyant Khandelwal!
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building full-stack applications. I enjoy working with modern web technologies and love contributing to open-source projects.
+ I'm a passionate full-stack developer.
 
 ---
 
 ### 🌟 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dushyant4665&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant4665&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dushyant4665&show_icons=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant4665&layout=compact&theme=white)
 
 ### 🏆 Achievements & Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=dushyant4665&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=dushyant4665&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=dushyant4665&color=white&style=flat-square)
 
 ---
 
@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ---
 
 ### 🎉 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dushyant4665&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dushyant4665&theme=white)
 
 ### ⚡ Fun Fact:
 I listen to Phonk music while coding and I love to visualize myself as a dominant achiever. 🏆
