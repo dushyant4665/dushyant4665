@@ -2,17 +2,17 @@
 
 ## Hello, I'm Dushyant Khandelwal
 
- I'm a passionate full-stack developer.
+  Passionate full-stack developer.
 
 ---
 
-### 🌟 My GitHub Stats
+### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant4665&layout=compact&theme=white)
 
-### 🏆 Achievements & Trophies
 
-### 👀 Profile Views
+
+### 👀 Profile View
 ![Profile Views](https://komarev.com/ghpvc/?username=dushyant4665&color=brightgreen&style=flat-square)
 
 
