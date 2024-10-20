@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **dushyant4665/dushyant4665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Trophy](https://github-profile-trophy.vercel.app/?username=dushyant4665&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=dushyant4665&color=white&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=dushyant4665&color=brightgreen&style=flat-square)
 
 ---
 
