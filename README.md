@@ -7,31 +7,15 @@
 ---
 
 ### 🌟 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dushyant4665&show_icons=true&theme=white)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant4665&layout=compact&theme=white)
 
 ### 🏆 Achievements & Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=dushyant4665&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=dushyant4665&color=brightgreen&style=flat-square)
 
----
 
-### 💻 Technologies I Work With:
-- **Frontend**: React, TailwindCSS, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express, Firebase
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
-
----
-
-### 🌱 I’m currently learning:
-- Advanced JavaScript (ES6+)
-- TypeScript
-- Docker & Kubernetes
-
----
 
 ### 🌟 Featured Projects
 - [** ECommerce **](https://crispshopping-mern-project-dushyant.vercel.app/): A full-stack eCommerce site using MongoDB, Express, and Stripe.
