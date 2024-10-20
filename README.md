@@ -1,19 +1,5 @@
 
 
-<!--
-**dushyant4665/dushyant4665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Hi there 👋 I'm Dushyant Khandelwal!
 
  I'm a passionate full-stack developer.
@@ -35,7 +21,7 @@ Here are some ideas to get you started:
 ### 💻 Technologies I Work With:
 - **Frontend**: React, TailwindCSS, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express, Firebase
-- **Databases**: MongoDB, MySQL
+- **Databases**: MongoDB, MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
 
 ---
@@ -48,8 +34,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🌟 Featured Projects
-- [**Project 1**](link): An awesome web app built with React and Node.js.
-- [**Project 2**](link): A full-stack eCommerce site using MongoDB, Express, and Stripe.
+- [** ECommerce **](https://crispshopping-mern-project-dushyant.vercel.app/): A full-stack eCommerce site using MongoDB, Express, and Stripe.
 
 ---
 
