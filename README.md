@@ -1,7 +1,6 @@
 
 
-## Hello
-## I'm Dushyant Khandelwal
+## Hello, I'm Dushyant Khandelwal
 
  I'm a passionate full-stack developer.
 
