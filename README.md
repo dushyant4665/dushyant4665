@@ -2,8 +2,6 @@
 
 ## Hello, I'm Dushyant Khandelwal
 
-  Passionate full-stack developer.
-
 ---
 
 ### 🌟 Stats:
@@ -28,5 +26,4 @@
 ### 🎉 GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dushyant4665&theme=white)
 
-### ⚡ Fun Fact:
-I listen to Phonk music while coding and I love to visualize myself as a dominant achiever. 🏆
+
