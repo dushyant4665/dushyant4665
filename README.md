@@ -15,11 +15,6 @@
 ### 👀 Profile View:
 ![Profile Views](https://komarev.com/ghpvc/?username=dushyant4665&color=brightgreen&style=flat-square)
 
-
-
-### 🌟 Featured Projects
-- [** ECommerce **](https://crispshopping-mern-project-dushyant.vercel.app/): A full-stack eCommerce site using MongoDB, Express, and Stripe.
-
 ---
 
 ### 📫 Connect:
