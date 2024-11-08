@@ -20,7 +20,7 @@
 
 ---
 
-### 🎉 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dushyant4665&theme=white)
+### 🎉 Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dushyant4665&theme=white)
 
 
