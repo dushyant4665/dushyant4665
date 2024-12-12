@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6F8EE8&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Hemanshu+Upadhyay+%F0%9F%91%8B;Full+Stack+JavaScript+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6F8EE8&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Dushyant+Khandelwal+%F0%9F%91%8B;Full+Stack+JavaScript+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -8,10 +8,10 @@
   <a href="https://linkedin.com/in/hemanshu-upadhyay-41957b1a8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
-  <a href="https://x.com/Hemanshu0412">
+  <a href="https://x.com/dushyant4665">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:upadhyayhri@gmail.com">
+  <a href="mailto:dushyantkhandelwal4665@gmail.com">
     <img src="https://img.shields.io/badge/Email-808080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -23,7 +23,6 @@
 
 - 🔭 Currently working as a **Full Stack JavaScript Developer**
 - 🛠️ Specialized in **React**, **Next.js**, and **Node.js** ecosystem
-- 📱 Experienced in building mobile apps with **React Native**
 - 🏗️ Passionate about creating clean, efficient, and maintainable code
 - 🌱 Always learning and exploring new technologies
 
@@ -62,8 +61,8 @@
 ## Let's Connect
 
 - 📧 Email: upadhyayhri@gmail.com
-- 💼 [LinkedIn Profile](https://linkedin.com/in/hemanshu-upadhyay-41957b1a8)
-- 📄 [Resume](https://drive.google.com/file/d/1p81f-JtHlBcdcZ81STWfxriKLkWvMt6W/view?usp=sharing)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/dushyant-khandelwal-516319221/)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hemanshu-upadhyay&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
@@ -86,7 +85,7 @@
 
 ### 🌟 Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant4665&layout=compact&theme=white)
+
 
 
 
