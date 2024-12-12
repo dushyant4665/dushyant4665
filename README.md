@@ -65,31 +65,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Dushyant_Khandelwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dushyant-khandelwal-516319221/)](https://www.linkedin.com/in/dushyant-khandelwal-516319221/)
 [![Gmail Badge](https://img.shields.io/badge/-dushyant.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dushyantkhandelwal4665@gmail.com)](mailto:dushyant.email@gmail.com)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanshu-upadhyay&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushyant4665&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <sub>💡 Always open to interesting projects and collaborations</sub>
-</div>
-
-
-### 🌟 Stats:
-
-
-
-
-
 ### 👀 Profile View:
 ![Profile Views](https://komarev.com/ghpvc/?username=dushyant4665&color=brightgreen&style=flat-square)
 
