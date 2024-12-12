@@ -70,7 +70,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanshu-upadhyay&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushyant4665&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
