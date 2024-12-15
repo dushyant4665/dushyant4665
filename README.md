@@ -26,27 +26,26 @@
 - 🏗️ Passionate about creating clean, efficient, and maintainable code
 - 🌱 Always learning and exploring new technologies
 
-## Tech Stack
+## 🔱 Tech Arsenal
 
 ```javascript
 {
+  core: ["JavaScript", "TypeScript","Python"],
   frontend: {
-    web: ["React", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
-    mobile: ["React Native", "Expo"],
-    testing: ["Jest", "React Testing Library"]
+    frameworks: ["React", "Next.js"],
+    UI: ["Tailwind CSS", "Redux, CSS5"]
   },
   backend: {
-    runtime: "Node.js",
-    frameworks: ["Express"],
-    databases: ["MongoDB", "PostgreSQL", "Redis"],
-    apis: ["REST", "GraphQL"]
+    frameworks: ["Node.js", "Express"],
+    databases: ["MongoDB", "PostgreSQL"],
+    APIs: ["GraphQL", "REST"]
   },
   devops: {
-    cloud: "AWS, Heroku, Vercel",
-    containers: "Docker",
-    ci_cd: ["GitHub Actions", "Gitlab CI/CD"]
+    platforms: ["AWS", "Vercel", "Heroku"],
+    tools: ["Docker", "GitHub Actions"]
   }
 }
+
 ```
 
 ## What I Do
