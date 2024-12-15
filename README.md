@@ -28,21 +28,34 @@
 
 > Building scalable web applications with modern JavaScript technologies
 
-- 🛠️ Craft: Full Stack JavaScript Developer with a penchant for making code work smarter, not harder.
-- 🧩 Specialized In: React, Next.js, Node.js—turning concepts into scalable realities.
+- 🧩 Craft: Full Stack JavaScript Developer, making code work smarter, not harder.
+- 🛠️ Expertise: React, Next.js, Node.js, and the fine art of debugging.
 - 🌌 Philosophy: Build it once. Build it right. Make it outlast trends.
-- ⚙️ Personality: Equal parts coder and tactician. A perfectionist with no patience for mediocrity.
-- 🎯 Approach: Code with precision, solve with creativity, and always aim for impact.
+- ⚙️ Personality: Half coder, half problem-solver, full perfectionist.
+- 🎯 Approach: Build with clarity, execute with purpose, and leave no stone unturned.
+- 🧠 mindset: Delivering results that are as functional as they are aesthetic, Always evolving with new challenges and technologies.
 
 ## 💼Tech Arsenal (a.k.a.)
 
 ```javascript
 {
-  "frontend": ["React", "Next.js", "Redux", "Tailwind CSS", "TypeScript"],
-  "backend": ["Node.js", "Express", "GraphQL", "MongoDB", "PostgreSQL"],
-  "devops": ["Docker", "AWS", "Vercel", "GitHub Actions"],
-  "special_abilities": ["Explaining technical jargon in plain English", "Taming legacy codebases"]
+  core: ["JavaScript", "TypeScript","Python"],
+  frontend: {
+    frameworks: ["React", "Next.js"],
+    UI: ["Tailwind CSS", "Redux"],
+    mobile: ["React Native"]
+  },
+  backend: {
+    frameworks: ["Node.js", "Express"],
+    databases: ["MongoDB", "PostgreSQL"],
+    APIs: ["GraphQL", "REST"]
+  },
+  devops: {
+    platforms: ["AWS", "Vercel", "Heroku"],
+    tools: ["Docker", "GitHub Actions"]
+  }
 }
+
 
 
 ```
