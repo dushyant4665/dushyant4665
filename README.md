@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=900&lines=Welcome+To+My+Repo%2C+Where+Code+Gets+Real;Dushyant+Khandelwal+-+Turning+Coffee+Into+Code" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=900&lines=Enter+My+Code+Jungle%2C+If+You+Dare;Dushyant+Khandelwal+-+Master+of+Code%2C+King+of+Coffee" alt="Typing SVG" /> 
 </div>
 
 <br/> 
@@ -23,7 +23,6 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
 
 ## ⚔️ The Architect
 
