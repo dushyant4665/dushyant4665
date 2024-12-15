@@ -1,8 +1,8 @@
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=900&lines=Enter+My+Code+Jungle%2C+If+You+Dare;Dushyant+Khandelwal+-+Master+of+Code%2C+King+of+Coffee" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=900&lines=Welcome+To+My+Realm+Of+Code%2C+If+You+Think+You+Can+Handle+It;Dushyant+Khandelwal+-+Crafting+Code+With+Precision%2C+Brewing+Coffee+With+Skill" alt="Typing SVG" /> 
 </div>
 
-<br/> 
+<br/>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/dushyant-khandelwal-516319221/"> 
