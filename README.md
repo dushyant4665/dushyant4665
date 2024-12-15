@@ -26,11 +26,11 @@
 
 > Building scalable web applications with modern JavaScript technologies
 
-- 🔭 Currently working as a **Full Stack JavaScript Developer**
-- 🛠️ Specialized in **React**, **Next.js**, and **Node.js** ecosystem.
-- 🌌 Philosophy: Build it once. Build it right. Then automate it.
-- 🎯 Personality: Half coder, half problem-solver, full perfectionist.
-- 🎯 Approach: Build with clarity, execute with purpose, and leave no stone unturned.
+- 🛠️ Craft: Full Stack JavaScript Developer with a penchant for making code work smarter, not harder.
+- 🧩 Specialized In: React, Next.js, Node.js—turning concepts into scalable realities.
+- 🌌 Philosophy: Build it once. Build it right. Make it outlast trends.
+- ⚙️ Personality: Equal parts coder and tactician. A perfectionist with no patience for mediocrity.
+- 🎯 Approach: Code with precision, solve with creativity, and always aim for impact.
 
 ## 💼Tech Arsenal (a.k.a.)
 
