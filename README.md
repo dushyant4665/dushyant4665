@@ -60,14 +60,6 @@
 
 ```
 
-## What I Do
-
-🎯 Build scalable, high-performance web and mobile applications
-🔄 Design and implement microservices architectures
-🚀 Optimize application performance and user experience
-👥 Mentor junior developers and conduct code reviews
-🔧 Create robust CI/CD pipelines for seamless deployments
-
 ### 👀 Profile View:
 ![Profile Views](https://komarev.com/ghpvc/?username=dushyant4665&color=brightgreen&style=flat-square)
 
