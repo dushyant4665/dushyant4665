@@ -8,7 +8,7 @@
 <span style="color: #6a4c93;"> ╚═════╝   ╚═════╝ ╚══════╝╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝ ╚══╝   ╚═╝   </span>
   </pre>
   <h2 style="margin-top: 20px; color: #f1faee; text-shadow: 1px 1px 2px #000; font-size: 20px;">
-    <code>console.log('Dushyant | Software Engineer | MERN Enthusiast 🚀')</code>
+<!--     <code>console.log('Dushyant | Software Engineer | MERN Enthusiast 🚀')</code> -->
   </h2>
 </div>
 <div align="center"> 
