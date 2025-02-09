@@ -1,3 +1,16 @@
+<div align="center" style="font-family: 'Courier New', Courier, monospace; background: #1e1e1e; padding: 30px; border-radius: 15px; border: 1px solid #444; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
+  <pre style="font-size: 16px; line-height: 1.5em; text-shadow: 1px 1px 2px #000;">
+<span style="color: #e63946;"> ███████╗ ██╗   ██╗███████╗██╗  ██╗██╗   ██╗ █████╗ ███╗  ██╗████████╗</span>
+<span style="color: #52b788;"> ██╔═══██╗██║   ██║██╔════╝██║  ██║╚██╗ ██╔╝██╔══██╗████╗ ██║╚══██╔══╝</span>
+<span style="color: #f4a261;"> ██║   ██║██║   ██║███████╗███████║ ╚████╔╝ ███████║██╔██╗██║   ██║   </span>
+<span style="color: #2a9d8f;"> ██║   ██║██║   ██║╚════██║██╔══██║  ╚██╔╝  ██╔══██║██║╚████║   ██║   </span>
+<span style="color: #6a4c93;">╚███████╔╝╚██████╔╝███████║██║  ██║   ██║   ██║  ██║██║ ╚███║   ██║   </span>
+<span style="color: #6a4c93;"> ╚═════╝   ╚═════╝ ╚══════╝╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝ ╚══╝   ╚═╝   </span>
+  </pre>
+  <h2 style="margin-top: 20px; color: #f1faee; text-shadow: 1px 1px 2px #000; font-size: 20px;">
+    <code>console.log('Dushyant | Software Engineer | MERN Enthusiast 🚀')</code>
+  </h2>
+</div>
 <div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=900&lines=Enter+My+Code+Jungle%2C+If+You+Dare;Dushyant+-+Master+of+Code%2C+King+of+Coffee" alt="Typing SVG" /> 
 </div>
