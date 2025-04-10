@@ -1,65 +1,56 @@
-
-<div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=900&lines=Enter+My+Code+Jungle%2C+If+You+Dare;Master+of+Code%2C+King+of+Coffee" alt="Typing SVG" /> 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=900&lines=Systems+Architect+%E2%9A%99%EF%B8%8F+Digital+Alchemist;From+Logic+Gates+to+Cloud+States" alt="Typing SVG" />
 </div>
 
-<br/> 
-
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/dushyant-khandelwal-516319221/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
-  </a>&nbsp;&nbsp; 
-  <a href="https://x.com/dushyant4665"> 
-    <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/> 
-  </a>&nbsp;&nbsp; 
-  <a href="mailto:dushyantkhandelwal4665@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
-  </a>
-</p>
+<br/>
 
 <p align="center">
-  <a href="https://dushyantkhandelwal.in">
-    <img src="https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.linkedin.com/in/dushyant-khandelwal-516319221/">
+    <img src="https://img.shields.io/badge/-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/dushyant4665">
+    <img src="https://img.shields.io/badge/-OBSERVE-000?style=flat-square&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:dushyantkhandelwal4665@gmail.com">
+    <img src="https://img.shields.io/badge/-COMMUNICATE-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />-->
+---
 
-## ⚔️ The Architect
+### 🧠 Cognitive Toolkit
 
-> Building scalable web applications with modern JavaScript technologies
+**Core Infrastructure**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-- 🧩 Craft: Full Stack JavaScript Developer, making code work smarter, not harder.
-- 🛠️ Expertise: React, Next.js, Node.js, and the fine art of debugging.
-- 🌌 Philosophy: Build it once. Build it right. Make it outlast trends.
-- ⚙️ Personality: Half coder, half problem-solver, full perfectionist.
-- 🎯 Approach: Build with clarity, execute with purpose, and leave no stone unturned.
-- 🧠 mindset: Delivering results that are as functional as they are aesthetic, Always evolving with new challenges and technologies.
+**Frontend Ecosystems**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 
-## 💼Tech Arsenal (a.k.a.)
+**Data Orchestration**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-```javascript
-{
-  core: ["JavaScript", "TypeScript","Python"],
-  frontend: {
-    frameworks: ["React", "Next.js"],
-    UI: ["Tailwind CSS", "Redux"],
-    mobile: ["React Native"]
-  },
-  backend: {
-    frameworks: ["Node.js", "Express"],
-    databases: ["MongoDB", "PostgreSQL"],
-    APIs: ["GraphQL", "REST"]
-  },
-  devops: {
-    platforms: ["AWS", "Vercel", "Heroku"],
-    tools: ["Docker", "GitHub Actions"]
-  }
-}
+**Spatial Deployment**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
+---
 
+### 📡 Operational Matrix
 
-```
+```mermaid
+graph LR
+A[Problem Analysis] --> B[System Design]
+B --> C[Modular Implementation]
+C --> D[Automated Testing]
+D --> E[Cloud Deployment]
+E --> F[Continuous Optimization]
 
 ### 👀 Profile View:
 ![Profile Views](https://komarev.com/ghpvc/?username=dushyant4665&color=brightgreen&style=flat-square)
