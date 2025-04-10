@@ -40,11 +40,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
----
+
 
 ### 📡 Operational Matrix
 
-```mermaid
+
+mermaid
 graph LR
 A[Problem Analysis] --> B[System Design]
 B --> C[Modular Implementation]
