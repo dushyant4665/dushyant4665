@@ -34,16 +34,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
 
----
-
-### � Deploying Value
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dushyant4665&theme=dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant4665&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 🚀 Instant Connect
 
 [![Portfolio](https://img.shields.io/badge/-Hire%20Me%20Now-24292e?style=for-the-badge&logo=webcomponents.org&logoColor=white)](https://dushyantkhandelwal.in)
