@@ -34,9 +34,10 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
 
-### 🚀 Instant Connect
+### 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/-Hire%20Me%20Now-24292e?style=for-the-badge&logo=webcomponents.org&logoColor=white)](https://dushyantkhandelwal.in)
-[![LinkedIn](https://img.shields.io/badge/-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dushyant-khandelwal-516319221)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dushyantkhandelwal.in)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dushyant-khandelwal-516319221)  
+[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dushyant4665)  
 
 📫 **Direct Line:** [dushyantkhandelwal4665@gmail.com](mailto:dushyantkhandelwal4665@gmail.com)
