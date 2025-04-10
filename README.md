@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=7E3ACE&center=true&width=500&lines=Build+Deploy+Iterate;From+Frontend+to+ML+Pipelines" alt="Header" />
 </div>
 
----
-
 ### 🛠️ Core Stack
 
 **Full Stack**  
@@ -22,14 +20,6 @@
 **Machine Learning**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
-
----
-
-### 📈 Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dushyant4665&theme=dark)](https://git.io/streak-stats)
-
----
 
 ### 📫 Connect
 
