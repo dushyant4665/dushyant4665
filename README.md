@@ -1,12 +1,6 @@
 <h2> Hi, I'm Dushyant Khandelwal! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="20"></h2>
 <p><em>Full Stack Developer.
 <p><em>Exploring Machine Learning.
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7E3ACE&center=true&width=580&lines=Full+Stack+Architect+%E2%9A%99%EF%B8%8F;Scalable+Web+%26+ML+Solutions" alt="Header" />
-</div>
-
 ---
 
 ### 🧠 Core Stack DNA
