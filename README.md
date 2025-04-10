@@ -1,11 +1,4 @@
-<h2> Hello, I'm Dushyant! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="20"></h2>
-
-<p><em>
-## 👨💻 Full Stack Developer
-
-Building robust web applications with modern tech stack
-
-
+<h1 align="center">⚡ Full Stack + DevOps + ML</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=7E3ACE&center=true&width=500&lines=Build+Deploy+Iterate;From+Frontend+to+ML+Pipelines" alt="Header" />
@@ -40,8 +33,7 @@ Building robust web applications with modern tech stack
 
 ### 📫 Connect
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?logo=google-chrome&logoColor=white)](https://dushyantkhandelwal.in)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/dushyant-khandelwal-516319221)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail)](mailto:dushyantkhandelwal4665@gmail.com)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=x)](https://x.com/dushyant4665)
-### 👀 Profile View:
-![Profile Views](https://komarev.com/ghpvc/?username=dushyant4665&color=brightgreen&style=flat-square)
