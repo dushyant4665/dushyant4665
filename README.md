@@ -65,8 +65,3 @@
 </a>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantkhandelwal&layout=compact&theme=radical" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushyantkhandelwal&theme=radical" width="400">
-</p>
