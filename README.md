@@ -1,7 +1,9 @@
-<h2> Hi, I'm Dushyant Khandelwal! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="20"></h2>
-<p><em>Full Stack Developer.
-<p><em>Exploring Machine Learning.
----
+<h2 align="center">Hi, I'm Dushyant Khandelwal! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="20"></h2>
+<h3 align="center">Full Stack Developer | Machine Learning Explorer</h3>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🧠 Core Stack DNA
 
@@ -25,6 +27,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
 
+    </td>
+    <td width="50%" valign="top">
+
 **DevOps**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
@@ -36,8 +41,33 @@
 
 ### 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dushyantkhandelwal.in)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dushyant-khandelwal-516319221)  
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dushyant4665)  
+<table>
+  <tr>
+    <td>
+      <a href="https://dushyantkhandelwal.in">
+        <img src="https://img.shields.io/badge/-Portfolio-24292e?logo=google-chrome&logoColor=white" alt="Portfolio">
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/dushyant-khandelwal-516319221">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://x.com/dushyant4665">
+        <img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white" alt="Twitter">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:dushyantkhandelwal4665@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
+  </tr>
+</table>
 
-📫 **Direct Line:** [dushyantkhandelwal4665@gmail.com](mailto:dushyantkhandelwal4665@gmail.com)
+    </td>
+  </tr>
+</table>
