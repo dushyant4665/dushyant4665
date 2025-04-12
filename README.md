@@ -18,7 +18,9 @@
 <div align="center">
   
   [![Visitors](https://komarev.com/ghpvc/?username=dushyantkhandelwal&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/dushyant4665)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/dushyant4665?style=social)](https://twitter.com/dushyant4665)
+<a href="https://dushyantkhandelwal.in" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
   
 </div>
 
@@ -48,9 +50,7 @@
 
 ### 🌐 Digital Presence
 
-<a href="https://dushyantkhandelwal.in" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
+
 
 <a href="https://linkedin.com/in/dushyant-khandelwal-516319221" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
