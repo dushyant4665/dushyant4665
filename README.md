@@ -21,6 +21,9 @@
 <a href="https://dushyantkhandelwal.in" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
+<a href="https://x.com/dushyant4665" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white">
+</a>
   
 </div>
 
