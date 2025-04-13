@@ -10,7 +10,7 @@
 <h1 align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="35">
   Hi, I'm Dushyant Khandelwal
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="35">
+  
 </h1>
 <h3 align="center">Full Stack Developer | Exploring Machine Learning </h3>
 
