@@ -12,7 +12,7 @@
   Hi, I'm Dushyant Khandelwal
   
 </h1>
-<h3 align="center">Full Stack Developer | Exploring Machine Learning </h3>
+<h3 align="center">Full Stack Developer | Exploring Machine Learning And Microservices</h3>
 
 
 <div align="center">
