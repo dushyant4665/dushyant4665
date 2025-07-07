@@ -40,11 +40,9 @@
 **Backend Kingdom**  
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 
 
-**Data Universe**  
+**Database**  
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase">
 
 **Cloud & DevOps**  
