@@ -1,7 +1,8 @@
 
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?dushyant4665=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dushyant4665&show_icons=true&theme=radical)
+
 
 
 
