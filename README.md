@@ -1,8 +1,6 @@
 
 
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dushyant4665&show_icons=true&theme=radical)
-
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=dushyant4665)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
