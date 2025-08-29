@@ -1,5 +1,4 @@
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=dushyant4665)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=dushyant4665)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
