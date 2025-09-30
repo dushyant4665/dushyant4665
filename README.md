@@ -36,9 +36,6 @@
 **Database**  
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase">
 
-**Cloud & DevOps**  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions">
-
 **ML/DL Toolkit**  
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch">
 
