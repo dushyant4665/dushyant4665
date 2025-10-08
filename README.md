@@ -60,41 +60,15 @@
 --- -->
 
 
-
-
 # Hi 👋, I'm Dushyant Khandelwal  
-### A Full-Stack Developer based in India 🇮🇳  
+### Full-Stack Developer | Web & System Design | India 🇮🇳  
 
-🔗 **Portfolio:** [Portfolio](https://dushyantkhandelwal.in)  
+I build **modern, fast, and interactive web apps**.  
+Exploring **React, Next.js, Node.js, Firebase, MongoDB**, and cool JS libraries like **Three.js, GSAP, Chart.js**.  
 
----
+**Tools & Platforms:** Git, GitHub, Vercel, Render, Railway, VS Code, Postman, Docker, Figma, Canva  
 
-### About Me
+🌐 **Portfolio:** [dushyantkhandelwal.in](https://dushyantkhandelwal.in)  
+📩 [Email](mailto:dushyantkhandelwal4665@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/dushyant-khandelwal-516319221/) • 🐦 [X](https://x.com/dushyant4665)  
 
-I’m a **Full Stack Developer** building modern, fast, and scalable web applications.  
-I enjoy creating projects that combine functionality, design, and performance.  
-
-Currently, I’m exploring **microservices**, **cloud deployments**, and building high-quality backend systems.  
-My focus is to grow into a developer who can build complete, end-to-end products — from idea to deployment.
-
----
-
-### What I Work With
-
-**Frontend:** React, Next.js, Tailwind CSS, JavaScript, TypeScript  
-**Backend:** Node.js, Express.js, GraphQL  
-**Database:** Firebase, PostgreSQL, MongoDB  
-**Others:** Git, GitHub, Vercel, Render, Railway, Firebase Hosting, VS Code, Postman, Docker, Swagger, Notion, Figma, Insomnia  
-
----
-
-### Digital Presence
-
-📩 **Email:** [dushyantkhandelwal4665@gmail.com](mailto:dushyantkhandelwal4665@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/dushyant-khandelwal-516319221](https://www.linkedin.com/in/dushyant-khandelwal-516319221/)  
-🐦 **Twitter:** [x.com/dushyant4665](https://x.com/dushyant4665)  
-
----
-
-I’m always open to learning, collaborating, and building something meaningful.  
-If you’re working on an interesting project or looking for a developer who cares about clean, efficient work — let’s talk.
+I love building things that **look amazing and perform even better**. 🚀
