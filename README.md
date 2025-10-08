@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="35">
   Hi, I'm Dushyant Khandelwal
   
@@ -57,4 +57,35 @@
   <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+--- -->
+
+<h1 align="center">Hi 👋, I'm Dushyant Khandelwal</h1>
+<h3 align="center">A  Full-Stack Developer based in India 🇮🇳</h3>
+<a href="https://dushyantkhandelwal.in" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+  [![Visitors](https://komarev.com/ghpvc/?username=dushyantkhandelwal&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/dushyant4665)
 ---
+
+- 👀 I’m a **Full Stack Developer** interested in **AI Tools**, and now diving into **Powerfull Softwares**
+
+- 💞️ I’m looking to collaborate on real-world projects related to **Web Development** or **ML/AI**
+
+-  Digital Presence  
+  [LinkedIn]((https://www.linkedin.com/in/dushyant-khandelwal-516319221/)) | [Email](mailto:dushyantkhandelwal4665@gmail.com) | [Twitter](https://x.com/dushyant4665)
+
+---
+
+### 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
+
+
+
