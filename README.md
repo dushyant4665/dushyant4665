@@ -61,7 +61,7 @@
 
 
 # Hi, I'm Dushyant Khandelwal  
-### Full-Stack Developer | Web, js & System Design | India  
+### Full-Stack Developer | Web, Js & System Design | India
 
 I build modern, fast, and interactive web applications.  
 Always Exploring React, Next.js, Node.js, Firebase, MongoDB, Supabase and JS libraries like Three.js, GSAP, Chart.js.  
