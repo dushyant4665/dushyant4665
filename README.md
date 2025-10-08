@@ -59,19 +59,18 @@
 
 --- -->
 
-
 # Hi, I'm Dushyant Khandelwal  
-### Full-Stack Developer | Web, Js & System Design | India
+### Full-Stack Developer | Web, JS & System Design | India
 
-I build modern, fast, and interactive web applications.  
-Always Exploring React, Next.js, Node.js, Firebase, MongoDB, Supabase and JS libraries like Three.js, GSAP, Chart.js.  
+I build **modern, fast, and interactive web applications**.  
+I work with **React, Next.js, Node.js, Firebase, MongoDB, Supabase**, and JS libraries like **Three.js, GSAP, Chart.js**.  
+I also explore **AI tools** to make development faster and more efficient.
 
-**Tools & Platforms:** Git, GitHub, Vercel, Render, Railway, VS Code, Postman, Docker, Figma  
+**Tools & Platforms:** Git, GitHub, Vercel, Render, Railway, VS Code, Postman, Docker, Figma, Canva  
 
-[Portfolio](https://dushyantkhandelwal.in)  
+🌐 **Portfolio:** [dushyantkhandelwal.in](https://dushyantkhandelwal.in)  
 
 **Digital Presence:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dushyant-khandelwal-516319221/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dushyantkhandelwal4665@gmail.com) 
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dushyant4665)
-
