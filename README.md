@@ -60,15 +60,18 @@
 --- -->
 
 
-# Hi 👋, I'm Dushyant Khandelwal  
-### Full-Stack Developer | Web & System Design | India 🇮🇳  
+# Hi, I'm Dushyant Khandelwal  
+### Full-Stack Developer | Web & JS Enthusiast | India  
 
-I build **modern, fast, and interactive web apps**.  
-Exploring **React, Next.js, Node.js, Firebase, MongoDB**, and cool JS libraries like **Three.js, GSAP, Chart.js**.  
+I build modern, fast, and interactive web applications.  
+Exploring React, Next.js, Node.js, Firebase, MongoDB, and JS libraries like Three.js, GSAP, Chart.js.  
 
-**Tools & Platforms:** Git, GitHub, Vercel, Render, Railway, VS Code, Postman, Docker, Figma, Canva  
+**Tools & Platforms:** Git, GitHub, Vercel, Render, Railway, VS Code, Postman, Docker, Figma  
 
-🌐 **Portfolio:** [dushyantkhandelwal.in](https://dushyantkhandelwal.in)  
-📩 [Email](mailto:dushyantkhandelwal4665@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/dushyant-khandelwal-516319221/) • 🐦 [X](https://x.com/dushyant4665)  
+**Portfolio:** [dushyantkhandelwal.in](https://dushyantkhandelwal.in)  
 
-I love building things that **look amazing and perform even better**. 🚀
+**Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dushyant-khandelwal-516319221/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dushyantkhandelwal4665@gmail.com) 
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dushyant4665)
+
