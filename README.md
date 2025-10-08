@@ -63,8 +63,7 @@
 ### Full-Stack Developer | Web, JS & System Design | India
 
 I build **modern, fast, and interactive web applications**.  
-I work with **React, Next.js, Node.js, Firebase, MongoDB, Supabase**, and JS libraries like **Three.js, GSAP, Chart.js**.  
-I also explore **AI tools** to make development faster and more efficient.
+Always Exploring **React, Next.js, Node.js, Firebase, MongoDB, Supabase**, and JS libraries like **Three.js, GSAP, Chart.js**.
 
 **Tools & Platforms:** Git, GitHub, Vercel, Render, Railway, VS Code, Postman, Docker, Figma, Canva  
 
