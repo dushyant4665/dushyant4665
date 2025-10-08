@@ -68,9 +68,9 @@ Always Exploring React, Next.js, Node.js, Firebase, MongoDB, Supabase and JS lib
 
 **Tools & Platforms:** Git, GitHub, Vercel, Render, Railway, VS Code, Postman, Docker, Figma  
 
-**Portfolio:** [dushyantkhandelwal.in](https://dushyantkhandelwal.in)  
+[Portfolio](https://dushyantkhandelwal.in)  
 
-**Connect with me:**  
+**Digital Presence:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dushyant-khandelwal-516319221/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dushyantkhandelwal4665@gmail.com) 
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dushyant4665)
