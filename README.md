@@ -65,14 +65,13 @@
 # Hi 👋, I'm Dushyant Khandelwal  
 ### A Full-Stack Developer based in India 🇮🇳  
 
-🔗 **Portfolio:** [dushyantkhandelwal.in](https://dushyantkhandelwal.in)  
-👀 **Profile Views:** [GitHub Stats](https://github.com/dushyantkhandelwal)
+🔗 **Portfolio:** [Portfolio](https://dushyantkhandelwal.in)  
 
 ---
 
 ### About Me
 
-I’m a **Full Stack Developer** who loves building modern, fast, and scalable web applications.  
+I’m a **Full Stack Developer** building modern, fast, and scalable web applications.  
 I enjoy creating projects that combine functionality, design, and performance.  
 
 Currently, I’m exploring **microservices**, **cloud deployments**, and building high-quality backend systems.  
@@ -89,7 +88,7 @@ My focus is to grow into a developer who can build complete, end-to-end products
 
 ---
 
-### Let's Connect
+### Digital Presence
 
 📩 **Email:** [dushyantkhandelwal4665@gmail.com](mailto:dushyantkhandelwal4665@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/dushyant-khandelwal-516319221](https://www.linkedin.com/in/dushyant-khandelwal-516319221/)  
