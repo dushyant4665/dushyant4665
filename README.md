@@ -68,7 +68,7 @@ I also explore **AI tools** to make development faster and more efficient.
 
 **Tools & Platforms:** Git, GitHub, Vercel, Render, Railway, VS Code, Postman, Docker, Figma, Canva  
 
-🌐 **Portfolio:** [dushyantkhandelwal.in](https://dushyantkhandelwal.in)  
+[Portfolio](https://dushyantkhandelwal.in)  
 
 **Digital Presence:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dushyant-khandelwal-516319221/) 
